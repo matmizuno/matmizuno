@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELlo,+my+name+is+Matheus+Mizuno+:%29)](https://git.io/typing-svg)
 <br>
+# Perfil dedicado aos meus estudos de programação.
 
 ## Main Skills:
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
